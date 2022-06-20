@@ -1,0 +1,3 @@
+:NvimTreeOpen -> Open de file navigator
+:NvimTreeCloe -> Close de file navigator
+:NvimTreeToggle -> Idem TreeClose
